@@ -2,7 +2,7 @@
 
 <img src="https://postimg.cc/LqR7PjgB">
 
-WebSite en Devellopelent
+WebSite en Developement
 
 <p align="center">  
   <picture>
