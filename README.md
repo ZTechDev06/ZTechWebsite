@@ -1,4 +1,4 @@
-# ZTechWebsite.github.io
+# ZTech Website
 
 <img src="https://i.postimg.cc/bv2jKTzM/Adobe-Express-20231210-1925360-1.png">
 
