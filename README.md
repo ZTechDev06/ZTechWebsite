@@ -1,6 +1,6 @@
 # ZTechWebsite.github.io
 
-<img src="https://postimg.cc/LqR7PjgB.png">
+<img src="https://i.postimg.cc/LqR7PjgB.png">
 
 WebSite en Developement
 
