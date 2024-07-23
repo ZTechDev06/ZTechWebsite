@@ -1,4 +1,4 @@
-# ziadOUA.github.io
+# ZTechWebsite.github.io
 
 <img src="https://i.postimg.cc/rpp18mxw/PORTFOLIO.png">
 
