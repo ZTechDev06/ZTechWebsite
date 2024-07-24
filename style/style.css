@@ -1,6 +1,7 @@
 @import "variables.css";
 @import "animations.css";
 @import "navBarStyle.css";
+@import "CustomCursor";
 @import "mobileNavBar.css";
 @import "statusBarStyle.css";
 @import "pageContentStyle.css";
