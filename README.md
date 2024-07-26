@@ -10,7 +10,7 @@ WebSite en Developement
     <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/C5wRq5P9/footer-Light.png">
         </div>
 
-    <svg class="squiggly-separator" width="671" height="11" viewBox="0 0 671 11" fill="none" xmlns="http://www.w3.org/2000/svg">  
+<svg class="squiggly-separator" width="671" height="11" viewBox="0 0 671 11" fill="none" xmlns="http://www.w3.org/2000/svg">  
       </svg>
     </div>
 
