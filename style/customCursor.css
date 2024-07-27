@@ -1,34 +1,31 @@
-/* CURSOR DEFAULT */
-
+/* CURSEUR PERSONNALISÉ CSS */
 .cursor {
-    display: none;
+    display: none; /* Masquer par défaut */
     position: fixed;
     z-index: 5;
-    width: 2rem;
-    height: 2rem;
-    background: linear-gradient(135deg, var(--md-sys-color-primary), var(--md-sys-color-tertiary));
-    border-radius: 50%;
+    width: 24px; /* Taille approximative d'une souris */
+    height: 36px;
+    background: radial-gradient(circle, #ccc 50%, #888 100%);
+    border-radius: 50% / 70%;
     pointer-events: none;
     transform: translate(-50%, -50%);
-    transition: height 200ms ease, width 200ms ease, background-color 200ms;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 100ms ease;
 }
 
-/* CURSOR HOVER */
-
-.hover {
-    width: 2.5rem;
-    height: 2.5rem;
+.cursor::after {
+    content: '';
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 6px;
+    height: 12px;
+    background: #333; /* Couleur du bouton de la souris */
+    border-radius: 2px;
 }
 
-/* CURSOR CLICK */
-
-.click {
-    width: 1.5rem;
-    height: 1.5rem;
-}
-
-/* CHECK IF USER USES A COMPUTER TO ADD THE CUSTOM CURSOR */
-
+/* Afficher le curseur personnalisé uniquement pour les utilisateurs d'ordinateurs */
 @media (pointer: fine) {
     .cursor {
         display: block;
