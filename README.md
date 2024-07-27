@@ -9,8 +9,6 @@ WebSite en Developement
 <p align="center">
           <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ZTechDev06/ZTechWebsite">
 
-<p align="center"> <b> <i> Lawnchair Balance between Simplicity and Customization </b> </i>
-
 &nbsp;
  </svg>
   </svg>
